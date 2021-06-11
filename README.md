@@ -1,6 +1,6 @@
 ### Hello, World! 🌎
 
-- 🔭 I’m currently working as a Freelance JavaScript Engineer
+- 🔭 I’m currently working as a Sr. React Native engineer
 - 🌱 I’m currently learning AWS and UI/UX
 - 💬 Ask me about `JavaScript`, `TypeScript`, `React`, `React Native`
 - 📫 How to reach me: You can send me an email or PM me on twitter!
