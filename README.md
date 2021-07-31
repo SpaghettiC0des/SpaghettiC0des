@@ -5,4 +5,6 @@
 - 💬 Ask me about `JavaScript`, `TypeScript`, `React`, `React Native`
 - 📫 How to reach me: You can send me an email or PM me on twitter!
 - 😄 Pronouns: He/Him
+- 📖 I also post tutorials on [dev.to](https://dev.to/karlmarxlopez)
 - ⚡ Fun fact: I'm a musician, I play guitar instrumentals on my day off.
+
