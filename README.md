@@ -14,7 +14,8 @@
   - I build my own keyboard, and I'm a big ergnomic/split-keyboard fan!
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=karlmarxlopez&count_private=true&show_icons=true&theme=dark" width="50%"/><img src="https://streak-stats.demolab.com/?user=karlmarxlopez&theme=dark" width="50%"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=karlmarxlopez&count_private=true&show_icons=true&theme=dark" width="50%"/>
+
+
 [![@karlmarxlopez's Holopin board](https://holopin.me/karlmarxlopez)](https://holopin.io/@karlmarxlopez)
   
