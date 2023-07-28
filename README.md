@@ -8,12 +8,13 @@
 - 📫 How to reach me: You can send me an email or PM me on twitter!
 - 📚 My StackOverflow [profile](https://stackoverflow.com/users/8264638/karlmarxlopez?tab=profile)
 - 👨🏻‍💻 Hire me on [Upwork!](https://www.upwork.com/freelancers/~01cf28994412c48d81)
-- 📖 I also post tutorials on [dev.to](https://dev.to/karlmarxlopez)
+- 📖 I also post tutorials to [dev.to](https://dev.to/karlmarxlopez)
 - ⚡ Fun fact:
   - I'm a musician, I play guitar instrumentals on my day off. 
-  - I build my own keyboard, and I'm a big ergnomic/split-keyboard fan!
+  - I build my own keyboard, and I'm an ergonomic/split-keyboard fan!
 
 
+> My vanity stats does not really say anything useful, it's just there, because why not lol
   <img src="https://github-readme-stats.vercel.app/api?username=karlmarxlopez&count_private=true&show_icons=true&theme=dark" />
 
 
