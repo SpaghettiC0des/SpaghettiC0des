@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning GoLang and creating my own keyboard PCB design.
 - 💬 Ask me about `JavaScript`, `TypeScript`, `React`, `React Native`
 - 📫 How to reach me: You can send me an email or PM me on twitter!
-- 📚 My StackOverflow [profile](https://stackoverflow.com/users/8264638/whohue?tab=profile)
+- 📚 My StackOverflow [profile](https://stackoverflow.com/users/8264638/karl-lopez)
 - 👨🏻‍💻 Hire me on [Upwork!](https://www.upwork.com/freelancers/~01cf28994412c48d81)
 - 📖 I also post tutorials to [dev.to](https://dev.to/karlmarxlopez)
 - ⚡ Fun fact:
