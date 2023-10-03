@@ -15,7 +15,7 @@
 
 
 > My vanity stats does not really say anything useful, it's just there, because why not lol
-  <img src="https://github-readme-stats.vercel.app/api?username=whohue&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SpaghettiC0des&count_private=true&show_icons=true&theme=dark" />
 
 
 [![@karlmarxlopez's Holopin board](https://holopin.me/karlmarxlopez)](https://holopin.io/@karlmarxlopez)
